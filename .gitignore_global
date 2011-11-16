@@ -1,3 +1,5 @@
+### Howto: git config --global core.excludesfile ~/.gitignore_global ###
+
 # Temperary files #
 *.pyc
 \#*#
